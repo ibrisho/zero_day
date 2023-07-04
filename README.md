@@ -1,6 +1,6 @@
-  #Vagrant
+  # Vagrant
     This Repo is about setting up VM on Ubuntu using vagrant
-  ##Installing Ubuntu 20.04 VM on Linux
+  ## Installing Ubuntu 20.04 VM on Linux
 
   *Open the Terminal application:
     *Now you will execute command line in your Terminal (each of them start with $)
