@@ -1,0 +1,1 @@
+running `uname` command without any option
